@@ -9,6 +9,7 @@ permalink: /
 ## 食べ物 🍙
 
 ### 好き 👍
+
 - 無印良品とかに売ってる外国のお菓子（フロランタン、ブールドネージュなど）
 - 肉系の何か
 
@@ -20,6 +21,7 @@ permalink: /
 ## プログラミング言語 🧑‍💻
 
 ### 好き 👍
+
 - [C#](https://learn.microsoft.com/ja-jp/dotnet/csharp/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Kotlin](https://www.jetbrains.com/opensource/kotlin/)
@@ -42,11 +44,9 @@ permalink: /
 ### 嫌い 👎
 なし
 
-# 最近見たアニメ
+# 最近見たアニメ (好きなキャラ)
 
-| 名前 | 好きなキャラ |
-| --- | --------- |
-| ダンジョン飯 | マルシル |
-| 葬送のフリーレン | 全て |
-| 薬屋のひとりごと | 猫猫 |
-| 水星の魔女 | スレッタ |
+- ダンジョン飯 (マルシル)
+- 葬送のフリーレン
+- 薬屋のひとりごと (猫猫)
+- 水星の魔女
