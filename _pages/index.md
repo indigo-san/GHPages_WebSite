@@ -13,7 +13,7 @@ permalink: /
 - 無印良品とかに売ってる外国のお菓子（フロランタン、ブールドネージュなど）
 - 肉系の何か
 
-<img width="300" src="/yuto-jikoshoukai/assets/images/_9fce3da8-d78a-4662-b416-aafd0a5d683c.jpg"></img>
+<img width="300" src="/yuto-jikoshoukai/assets/images/_9fce3da8-d78a-4662-b416-aafd0a5d683c.jpg">
 
 ### 嫌い 👎
 - 寿司、刺身、フライ以外の魚料理
@@ -26,8 +26,8 @@ permalink: /
 - [TypeScript](https://www.typescriptlang.org/)
 - [Kotlin](https://www.jetbrains.com/opensource/kotlin/)
 
-<img width="300" src="/yuto-jikoshoukai/assets/images/dotnet-logo.jpg"></img>
-<img width="300" src="/yuto-jikoshoukai/assets/images/ts-logo-256.png"></img>
+<img width="300" src="/yuto-jikoshoukai/assets/images/dotnet-logo.jpg">
+<img width="300" src="/yuto-jikoshoukai/assets/images/ts-logo-256.png">
 
 ### 嫌い 👎
 - JavaScript
