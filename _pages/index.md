@@ -13,7 +13,7 @@ permalink: /
 - 無印良品とかに売ってる外国のお菓子（フロランタン、ブールドネージュなど）
 - 肉系の何か
 
-<image width="300" src="/yuto-jikoshoukai/assets/images/_9fce3da8-d78a-4662-b416-aafd0a5d683c.jpeg"></image>
+<image width="300" src="/yuto-jikoshoukai/assets/images/_9fce3da8-d78a-4662-b416-aafd0a5d683c.jpg"></image>
 
 ### 嫌い 👎
 - 寿司、刺身、フライ以外の魚料理
