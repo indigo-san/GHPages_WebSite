@@ -24,6 +24,9 @@ permalink: /
 - [TypeScript](https://www.typescriptlang.org/)
 - [Kotlin](https://www.jetbrains.com/opensource/kotlin/)
 
+<image width="300" src="../assets/images/dotnet-logo.jpg">
+<image width="300" src="../assets/images/ts-logo-256.png">
+
 ### 嫌い 👎
 - JavaScript
 - C
